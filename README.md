@@ -11,6 +11,3 @@
 - Get API Invoke URL from CloudFormation `Output` and paste into `./html/js/api.js`
 - Upload `index.html`, `./css/style.css` and `./js/api.js` to root folder of S3 Website Bucket
 - Enjoy the dinos
-
-## Diagram
-![diagram](diagram.jpg)
